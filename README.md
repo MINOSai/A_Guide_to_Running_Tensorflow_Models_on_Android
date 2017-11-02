@@ -1,4 +1,4 @@
-# A_Guide_to_Running_Tensorflow_Models_on_Android
+# Android-TensorFlow
 
 Number classification using trained TensorFlow model. 
 
