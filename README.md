@@ -1,24 +1,10 @@
 # A_Guide_to_Running_Tensorflow_Models_on_Android
-This is the code for"A Guide to Running Tensorflow Models on Android" By SIraj Raval on Youtube
 
-# Overview
-
-This is the code for [this](https://youtu.be/kFWKdLOxykE) video on Youtube by Siraj Raval. 
-
-![Image](images/demo.png)
-
-Handwritten digits classification from MNIST on Android with TensorFlow.  
-
-If you want to make your own version of this app or want to knowhow to save your model and export it for Android or other devices check the very simple tutorial below.  The UI and expert-graph.pb model were taken from: https://github.com/miyosuda/TensorFlowAndroidMNIST, so thank you miyousuda.  
+Number classification using trained TensorFlow model. 
 
 ## Dependencies
 
 All included
-
-## Usage
-
-Just open this project with Android Studio and is ready to run, this will work
-with x86 and armeabi-v7a architectures.
 
 ### How to export my model?
 
@@ -44,7 +30,3 @@ You need `tensorflow.aar`, which can be downloaded from [the nightly build artif
 ### Interacting with TensorFlow
 
 To interact with TensorFlow you will need an instance of TensorFlowInferenceInterface, you can see more details about it [here](https://github.com/mari-linhares/mnist-android-tensorflow/blob/master/MnistAndroid/app/src/main/java/mariannelinhares/mnistandroid/Classifier.java)
-
-## Credits
-
-Credits for this code go to [mari-linhares](https://github.com/mari-linhares/mnist-android-tensorflow). I've merely created a wrapper to get people started. 
