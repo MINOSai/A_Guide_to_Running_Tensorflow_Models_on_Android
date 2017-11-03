@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/res/layout-v21/notification_action.xml"
+    }
+]

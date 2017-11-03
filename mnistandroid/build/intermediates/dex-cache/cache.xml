@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/minos.ai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_00e861c6a3e4390eeb15f91e4edb33d91bca78c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minos.ai/.android/build-cache/13112b36ae9580834ab72de10457be6b7f64b521/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/pre-dexed/debug/classes_aeeffc9cba730cba4d2a034c885fdee24570b943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minos.ai/.android/build-cache/7894862a02446dc847552dd170bf8db3db436a33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/pre-dexed/debug/classes_2275a9d1d7d8eaf8aea0779760908091ac451b88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minos.ai/.android/build-cache/108d00b733db145c5305818e4fb94e729313bd10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/pre-dexed/debug/classes_00d7b47551514573f019edcd06c23002a6710aa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minos.ai/.android/build-cache/a4f0e2b7eb8a849168e30a655efe56024611b4b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/pre-dexed/debug/classes_3e68d1d19469ac52d630d192f092818cceafbe66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minos.ai/.android/build-cache/0b3fa1d9d3c034cec29c7854aaf40a4023117919/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/pre-dexed/debug/classes_b10ef79556ad98afb2aa04e13db1be09cf509ab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minos.ai/.android/build-cache/7c4b3c8cd390e36410a83debc24087a6f8edb008/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08b7bb0240c9df70b9af7c07496023df477d2640">
+        <dex dex="/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/pre-dexed/debug/classes_ac430ee040258bccb3e88782001c672fc5d6b20f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minos.ai/.android/build-cache/6252f8631023c2ff6b437482fe4e31a3b910595e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/pre-dexed/debug/classes_273aad8732256546e63b82df431ccd6ce57ef810.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minos.ai/.android/build-cache/ce1ee21970efc0f6204671347bc1ddfb24c24930/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/pre-dexed/debug/classes_919937ec5faaf72d00d63d081f642a20d152dfa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minos.ai/.android/build-cache/910c010b7d6f60d33e6671524de3f7c278c7a35e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/pre-dexed/debug/classes_92bd223d714ec26394d8b1f6fb52eb559db9be34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/pre-dexed/debug/classes_32e53e54cb21a2c18d8d3d360a61963238479734.jar" />
+    </item>
+
+</items>

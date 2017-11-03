@@ -45,6 +45,7 @@ import java.util.ArrayList;
 import java.util.List;
 //encapsulates a classified image
 //public interface to the classification class, exposing a name and the recognize function
+import mariannelinhares.mnistandroid.models.Classification;
 import mariannelinhares.mnistandroid.models.Classifier;
 //contains logic for reading labels, creating classifier, and classifying
 import mariannelinhares.mnistandroid.models.TensorFlowClassifier;

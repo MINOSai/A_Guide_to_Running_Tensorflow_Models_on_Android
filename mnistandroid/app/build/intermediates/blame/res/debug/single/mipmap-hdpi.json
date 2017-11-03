@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]
