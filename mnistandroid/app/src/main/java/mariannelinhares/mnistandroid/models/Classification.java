@@ -1,14 +1,8 @@
 package mariannelinhares.mnistandroid.models;
 
-/**
- * Created by marianne-linhares on 20/04/17.
- */
-
 public class Classification {
 
-    //conf is the output
     private float conf;
-    //input label
     private String label;
 
     Classification() {

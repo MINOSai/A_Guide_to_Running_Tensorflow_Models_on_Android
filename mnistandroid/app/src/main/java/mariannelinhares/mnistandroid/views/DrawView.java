@@ -1,18 +1,5 @@
 package mariannelinhares.mnistandroid.views;
 
-/*
-   Copyright 2016 Narrative Nights Inc. All Rights Reserved.
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-   http://www.apache.org/licenses/LICENSE-2.0
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
- */
-
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
@@ -25,16 +12,11 @@ import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.View;
 
-/**
- * Changed by marianne-linhares on 20/04/17.
- */
-
 public class DrawView extends View {
 
     private Paint mPaint = new Paint();
     private DrawModel mModel;
 
-    // 28x28 pixel Bitmap
     private Bitmap mOffscreenBitmap;
     private Canvas mOffscreenCanvas;
 
@@ -53,8 +35,6 @@ public class DrawView extends View {
         this.mModel = model;
     }
 
-    //reset the view, so empty the drawing (set everything to white and redraw the 28x28
-    //rectangle
     public void reset() {
         mDrawnLineSize = 0;
         if (mOffscreenBitmap != null) {
@@ -65,15 +45,12 @@ public class DrawView extends View {
         }
     }
 
-    //create the view, for a given length and width
     private void setup() {
         mSetuped = true;
 
-        // View size
         float width = getWidth();
         float height = getHeight();
 
-        // Model (bitmap) size
         float modelWidth = mModel.getWidth();
         float modelHeight = mModel.getHeight();
 
@@ -97,8 +74,6 @@ public class DrawView extends View {
     }
 
     @Override
-    //when the user begins drawing, initialize
-    //the model renderer class and draw it on the canvas
     public void onDraw(Canvas canvas) {
         if (mModel == null) {
             return;
@@ -121,10 +96,6 @@ public class DrawView extends View {
         mDrawnLineSize = mModel.getLineSize();
     }
 
-    /**
-     * Convert screen position to local pos (pos in bitmap)
-     */
-    //calculates the position of the finger
     public void calcPos(float x, float y, PointF out) {
         mTmpPoints[0] = x;
         mTmpPoints[1] = y;
@@ -141,7 +112,6 @@ public class DrawView extends View {
         releaseBitmap();
     }
 
-    //to draw the canvas we need the bitmap
     private void createBitmap() {
         if (mOffscreenBitmap != null) {
             mOffscreenBitmap.recycle();
@@ -160,9 +130,6 @@ public class DrawView extends View {
         reset();
     }
 
-    /**
-     * Get 28x28 pixel data for tensorflow input.
-     */
     public float[] getPixelData() {
         if (mOffscreenBitmap == null) {
             return null;
@@ -171,13 +138,11 @@ public class DrawView extends View {
         int width = mOffscreenBitmap.getWidth();
         int height = mOffscreenBitmap.getHeight();
 
-        // Get 28x28 pixel data from bitmap
         int[] pixels = new int[width * height];
         mOffscreenBitmap.getPixels(pixels, 0, width, 0, 0, width, height);
 
         float[] retPixels = new float[pixels.length];
         for (int i = 0; i < pixels.length; ++i) {
-            // Set 0 for white and 255 for black pixel
             int pix = pixels[i];
             int b = pix & 0xff;
             retPixels[i] = (float)((0xff - b)/255.0);
