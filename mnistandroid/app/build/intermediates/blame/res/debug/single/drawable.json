@@ -28,6 +28,10 @@
         "source": "/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/drawable/tensorflow.png",
+        "source": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/src/main/res/drawable/tensorflow.png"
+    },
+    {
         "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
         "source": "/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/res/drawable/abc_spinner_textfield_background_material.xml"
     },
@@ -74,6 +78,10 @@
     {
         "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
         "source": "/Users/minos.ai/.android/build-cache/c93b95b9ce20dad4be40edbb48111372d29c06db/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/drawable/keras.png",
+        "source": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/src/main/res/drawable/keras.png"
     },
     {
         "merged": "/Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
