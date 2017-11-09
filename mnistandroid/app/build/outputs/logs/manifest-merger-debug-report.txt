@@ -2,7 +2,7 @@
 manifest
 ADDED from /Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/src/main/AndroidManifest.xml:3:5-44
+		ADDED from /Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/src/main/AndroidManifest.xml:3:5-35
 		INJECTED from /Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -37,12 +37,12 @@ MERGED from [org.tensorflow:tensorflow-android:1.2.0-rc0] /Users/minos.ai/.andro
 		ADDED from /Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
 		ADDED from /Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/src/main/AndroidManifest.xml:11:9-40
-activity#mariannelinhares.mnistandroid.MainActivity
+activity#minosai.mnistandroid.MainActivity
 ADDED from /Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:screenOrientation
-		ADDED from /Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/src/main/AndroidManifest.xml:12:48-84
+		ADDED from /Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/src/main/AndroidManifest.xml:12:68-104
 	android:name
-		ADDED from /Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/src/main/AndroidManifest.xml:12:19-67
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from /Users/minos.ai/AndroidStudioProjects/Android-TensorFlow/mnistandroid/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
